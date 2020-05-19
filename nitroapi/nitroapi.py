@@ -19,8 +19,8 @@ import json
 import os
 import pprint
 import requests
-import urlparse
 import urllib
+import urllib.parse as urlparse
 import logging as _logging
 
 class API(object):
