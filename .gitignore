@@ -5,3 +5,4 @@ dist
 build
 nitroapi.egg-info/*
 README.txt
+.venv
